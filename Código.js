@@ -1,7 +1,3 @@
-/*Diseña una clase "ProyectoInvestigación" con propiedades como "título", "investigadores" y "fecha de inicio". Implementa funciones
-que permitan agregar, editar y eliminar proyectos de investigación en un registro. Además, crea una función que muestre los proyectos
-en los que participa un investigador específico. */
-
 class ProyectoInvestigacion{
     constructor(titulo,investigadores = [],fechaDeInicio){
         let _titulo=titulo;
